@@ -31,3 +31,47 @@
 .social-login:hover {
     box-shadow: 4px 4px 4px rgb(0, 0, 0, 0.42);
 }
+
+h1
+ {
+    color: rgb(85, 131, 203);
+    font-size: 26px;
+    text-align: center;
+}
+
+h2,
+h3 {
+    color:blue!important;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+form,
+p
+{
+text-align: center;
+align-items: center;
+}
+
+
+[type="radio"]
+{
+text-align: center;
+}
+
+section p {
+    margin: 25px;
+}
+
+article section 
+{
+color: grey;
+}
+
+section.social-login
+{
+text-align: center;
+align-items: center;
+}
+
